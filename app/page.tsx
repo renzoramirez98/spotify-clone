@@ -1,5 +1,5 @@
 export default function Home() {
   return (
-    <div>Hello Spotify!</div>
+    <div>Hello Spotsdsify!</div>
   )
 }
