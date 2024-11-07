@@ -1,0 +1,6 @@
+to start on a new page
+npm run dev
+
+or npm start
+or if not compiled write npm run build
+
